@@ -1,0 +1,14 @@
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\bin\Debug\net8.0\Conversao_Outros_Tipos_Numericos.exe
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\bin\Debug\net8.0\Conversao_Outros_Tipos_Numericos.deps.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\bin\Debug\net8.0\Conversao_Outros_Tipos_Numericos.runtimeconfig.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\bin\Debug\net8.0\Conversao_Outros_Tipos_Numericos.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\bin\Debug\net8.0\Conversao_Outros_Tipos_Numericos.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\obj\Debug\net8.0\Conversao_Outros_Tipos_Numericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\obj\Debug\net8.0\Conversao_Outros_Tipos_Numericos.AssemblyInfoInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\obj\Debug\net8.0\Conversao_Outros_Tipos_Numericos.AssemblyInfo.cs
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\obj\Debug\net8.0\Conversao_Outros_Tipos_Numericos.csproj.CoreCompileInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\obj\Debug\net8.0\Conversao_Outros_Tipos_Numericos.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\obj\Debug\net8.0\refint\Conversao_Outros_Tipos_Numericos.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\obj\Debug\net8.0\Conversao_Outros_Tipos_Numericos.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\obj\Debug\net8.0\Conversao_Outros_Tipos_Numericos.genruntimeconfig.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Conversao_Outros_Tipos_Numericos\obj\Debug\net8.0\ref\Conversao_Outros_Tipos_Numericos.dll

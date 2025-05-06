@@ -1,0 +1,14 @@
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\bin\Debug\net8.0\CriandoVariavies.exe
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\bin\Debug\net8.0\CriandoVariavies.deps.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\bin\Debug\net8.0\CriandoVariavies.runtimeconfig.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\bin\Debug\net8.0\CriandoVariavies.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\bin\Debug\net8.0\CriandoVariavies.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\obj\Debug\net8.0\CriandoVariavies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\obj\Debug\net8.0\CriandoVariavies.AssemblyInfoInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\obj\Debug\net8.0\CriandoVariavies.AssemblyInfo.cs
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\obj\Debug\net8.0\CriandoVariavies.csproj.CoreCompileInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\obj\Debug\net8.0\CriandoVariavies.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\obj\Debug\net8.0\refint\CriandoVariavies.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\obj\Debug\net8.0\CriandoVariavies.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\obj\Debug\net8.0\CriandoVariavies.genruntimeconfig.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex03\Program2.cs\Program2.cs\obj\Debug\net8.0\ref\CriandoVariavies.dll
