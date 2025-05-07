@@ -1,0 +1,14 @@
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\bin\Debug\net8.0\VariavelBooleana.exe
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\bin\Debug\net8.0\VariavelBooleana.deps.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\bin\Debug\net8.0\VariavelBooleana.runtimeconfig.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\bin\Debug\net8.0\VariavelBooleana.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\bin\Debug\net8.0\VariavelBooleana.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\obj\Debug\net8.0\VariavelBooleana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\obj\Debug\net8.0\VariavelBooleana.AssemblyInfoInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\obj\Debug\net8.0\VariavelBooleana.AssemblyInfo.cs
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\obj\Debug\net8.0\VariavelBooleana.csproj.CoreCompileInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\obj\Debug\net8.0\VariavelBooleana.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\obj\Debug\net8.0\refint\VariavelBooleana.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\obj\Debug\net8.0\VariavelBooleana.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\obj\Debug\net8.0\VariavelBooleana.genruntimeconfig.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\VariavelBooleana\obj\Debug\net8.0\ref\VariavelBooleana.dll

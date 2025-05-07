@@ -1,0 +1,14 @@
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\bin\Debug\net8.0\Condicionais.exe
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\bin\Debug\net8.0\Condicionais.deps.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\bin\Debug\net8.0\Condicionais.runtimeconfig.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\bin\Debug\net8.0\Condicionais.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\bin\Debug\net8.0\Condicionais.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\obj\Debug\net8.0\Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\obj\Debug\net8.0\Condicionais.AssemblyInfoInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\obj\Debug\net8.0\Condicionais.AssemblyInfo.cs
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\obj\Debug\net8.0\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\obj\Debug\net8.0\Condicionais.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\obj\Debug\net8.0\refint\Condicionais.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\obj\Debug\net8.0\Condicionais.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\obj\Debug\net8.0\Condicionais.genruntimeconfig.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex05\Condicionais\Condicionais\obj\Debug\net8.0\ref\Condicionais.dll
