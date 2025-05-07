@@ -1,0 +1,14 @@
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\bin\Debug\net8.0\For2.exe
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\bin\Debug\net8.0\For2.deps.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\bin\Debug\net8.0\For2.runtimeconfig.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\bin\Debug\net8.0\For2.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\bin\Debug\net8.0\For2.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\obj\Debug\net8.0\For2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\obj\Debug\net8.0\For2.AssemblyInfoInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\obj\Debug\net8.0\For2.AssemblyInfo.cs
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\obj\Debug\net8.0\For2.csproj.CoreCompileInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\obj\Debug\net8.0\For2.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\obj\Debug\net8.0\refint\For2.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\obj\Debug\net8.0\For2.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\obj\Debug\net8.0\For2.genruntimeconfig.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\For2\obj\Debug\net8.0\ref\For2.dll

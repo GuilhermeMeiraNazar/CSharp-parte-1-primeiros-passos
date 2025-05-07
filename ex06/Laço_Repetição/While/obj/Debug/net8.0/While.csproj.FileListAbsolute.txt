@@ -1,0 +1,14 @@
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\bin\Debug\net8.0\While.exe
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\bin\Debug\net8.0\While.deps.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\bin\Debug\net8.0\While.runtimeconfig.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\bin\Debug\net8.0\While.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\bin\Debug\net8.0\While.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\obj\Debug\net8.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\obj\Debug\net8.0\While.AssemblyInfoInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\obj\Debug\net8.0\While.AssemblyInfo.cs
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\obj\Debug\net8.0\While.csproj.CoreCompileInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\obj\Debug\net8.0\While.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\obj\Debug\net8.0\refint\While.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\obj\Debug\net8.0\While.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\obj\Debug\net8.0\While.genruntimeconfig.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\While\obj\Debug\net8.0\ref\While.dll
