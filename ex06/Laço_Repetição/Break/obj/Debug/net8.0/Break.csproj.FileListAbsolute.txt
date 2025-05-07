@@ -1,0 +1,14 @@
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\bin\Debug\net8.0\Break.exe
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\bin\Debug\net8.0\Break.deps.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\bin\Debug\net8.0\Break.runtimeconfig.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\bin\Debug\net8.0\Break.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\bin\Debug\net8.0\Break.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\obj\Debug\net8.0\Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\obj\Debug\net8.0\Break.AssemblyInfoInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\obj\Debug\net8.0\Break.AssemblyInfo.cs
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\obj\Debug\net8.0\Break.csproj.CoreCompileInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\obj\Debug\net8.0\Break.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\obj\Debug\net8.0\refint\Break.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\obj\Debug\net8.0\Break.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\obj\Debug\net8.0\Break.genruntimeconfig.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex06\Laço_Repetição\Break\obj\Debug\net8.0\ref\Break.dll
