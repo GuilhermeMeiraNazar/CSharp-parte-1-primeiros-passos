@@ -1,0 +1,14 @@
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\bin\Debug\net8.0\VariaveisTexto.exe
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\bin\Debug\net8.0\VariaveisTexto.deps.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\bin\Debug\net8.0\VariaveisTexto.runtimeconfig.json
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\bin\Debug\net8.0\VariaveisTexto.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\bin\Debug\net8.0\VariaveisTexto.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\obj\Debug\net8.0\VariaveisTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\obj\Debug\net8.0\VariaveisTexto.AssemblyInfoInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\obj\Debug\net8.0\VariaveisTexto.AssemblyInfo.cs
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\obj\Debug\net8.0\VariaveisTexto.csproj.CoreCompileInputs.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\obj\Debug\net8.0\VariaveisTexto.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\obj\Debug\net8.0\refint\VariaveisTexto.dll
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\obj\Debug\net8.0\VariaveisTexto.pdb
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\obj\Debug\net8.0\VariaveisTexto.genruntimeconfig.cache
+C:\Users\U64738\Downloads\Minhas coisas\CSharp-parte-1-primeiros-passos\ex04\VariaveisTexto\VariaveisTexto\obj\Debug\net8.0\ref\VariaveisTexto.dll
